@@ -1,0 +1,28 @@
+{
+    "trial_type": {
+        "LongName": "Emotion processing presented stimuli",
+        "Descripton": "Participant has to match shapes and faces by selecting one of the figures presented in the bottom row (left or right) that resembled the top one, by pressing a left or right button. A cue is displayed, followed by a number of faces/shapes trials, each separated by an inter-trial interval.",
+        "Levels": {
+            "CueShapes": "'MATCH SHAPES' is displayed in white in the middle of the screen with a black background, for 3 seconds.",
+            "CueFaces": "'MATCH FACES' is displayed in white in the middle of the screen with a black background, for 3 seconds.",
+            "Shapes": "Three shapes are displayed in white in a triangle formation on the screen with a black background, for 2 seconds.",
+            "Faces": "Three faces with emotional expressions are displayed in white in a triangle formation on the screen with a black background, for 2 seconds.",
+            "ITI": "A '+' sign is displayed in white on the screen with a black background, for 1 second."
+        }
+    },
+    "button_pressed": {
+        "LongName": "Emotion processing button pressed",
+        "Descripton": "Participant has to match shapes and faces by selecting one of the figures presented in the bottom row (left or right) that resembled the top one, by pressing a left or right button. A cue is displayed, followed by a number of faces/shapes trials, each separated by an inter-trial interval.",
+        "Levels": {
+            "L": "Left button (pressed with right index finger).",
+            "R": "Right button (pressed with right middle finger)."
+        }
+    },
+    "StimulusPresentation": {
+        "OperatingSystem": "Windows 7",
+        "SoftwareName": "E-Prime Studio",
+        "SoftwareRRID": "SCR_009567",
+        "SoftwareVersion": "2.0.10.248",
+        "Code": ""
+    }
+}

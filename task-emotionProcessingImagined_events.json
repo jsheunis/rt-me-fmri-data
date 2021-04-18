@@ -1,0 +1,17 @@
+{
+    "trial_type": {
+        "LongName": "Recalling an emotional memory",
+        "Descripton": "An imagined emotion processing task, alternating between blocks of counting backwards and emotional memory recollection. Participant recalls an emotional memory involving a person or people until the end of the task block is reached.",
+        "Levels": {
+            "MentalFingerTapping": "A '>' sign is displayed in white in the middle of the screen with a black background.",
+            "Count": "A '+' sign is displayed in white in the middle of the screen with a black background."
+        }
+    },
+    "StimulusPresentation": {
+        "OperatingSystem": "Windows 7",
+        "SoftwareName": "E-Prime Studio",
+        "SoftwareRRID": "SCR_009567",
+        "SoftwareVersion": "2.0.10.248",
+        "Code": ""
+    }
+}

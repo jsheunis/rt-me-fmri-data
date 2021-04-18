@@ -1,0 +1,22 @@
+{
+    "Name": "rt-me-fMRI: A task and resting state dataset for real-time, multi-echo fMRI methods development and validation",
+    "BIDSVersion": "1.1.0",
+    "License": "GDPR-compliant Data Use Agreement",
+    "Authors": ["Stephan Heunis", "Marcel Breeuwer", "Cesar Caballero-Gaudes", "Lydia Hellrung", "Willem Huijbers", "Jacobus Jansen", "Rolf Lamerichs", "Svitlana Zinger", "Bert Aldenkamp"],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "Please cite the following data article: Heunis et. al, 2020. The effects of multi-echo fMRI combination and rapid T2*-mapping on offline and real-time BOLD sensitivity. BioRxiv Preprint.",
+    "Funding": [
+        "Health-Holland LSH‐TKI; Grant/Award Number: LSHM16053‐SGF",
+        "Horizon 2020 research and innovation program; Grant/Award Number: 794395",
+        "Spanish Ministry of Economy and Competitiveness; Grant/Award Number: RYC-2017-21845",
+        "Basque Government; Grant/Award Number: PIBA_2019_104",
+        "Spanish Ministry of Science, Innovation and Universities: PID2019-105520GB-100"
+    ],
+    "ReferencesAndLinks": [
+        "Heunis et. al, 2020. The effects of multi-echo fMRI combination and rapid T2*-mapping on offline and real-time BOLD sensitivity. BioRxiv Preprint.",
+        "https://github.com/jsheunis/rt-me-fMRI",
+        "https://rt-me-fmri.herokuapp.com/",
+        "https://github.com/jsheunis/fMRwhy"
+    ],
+    "DatasetDOI": "https://doi.org/10.34894/R1TNL8"
+}

@@ -1,0 +1,17 @@
+# rt-me-fMRI
+
+### A task and resting state dataset for real-time, multi-echo fMRI methods development and validation
+
+---
+
+A multi-echo fMRI dataset (N=28 healthy volunteers) with four task-based and two resting state runs was collected,
+curated and made available to the community.
+
+Its main purpose is to advance the development of methods for real-time multi-echo fMRI analysis with applications in neurofeedback,
+real-time quality control, and adaptive paradigms, although the variety of experimental task paradigms can support multiple use cases.
+Tasks include finger tapping, emotional face and shape matching, imagined finger tapping and imagined emotion processing.
+
+[The data article]("link to follow") provides a detailed description of the full dataset; methods to collect, prepare, standardize and preprocess it; quality control measures; and data validation measures.
+A web-based application is provided as a supplementary tool with which to interactively explore, visualize and understand the data and its derivative measures: [https://rt-me-fmri.herokuapp.com/](https://rt-me-fmri.herokuapp.com/).
+The dataset itself can be accessed via a data use agreement on DataverseNL at [https://dataverse.nl/dataverse/rt-me-fmri](https://dataverse.nl/dataverse/rt-me-fmri).
+Supporting information and code for reproducibility can be accessed at [https://github.com/jsheunis/rtme-fMRI](https://github.com/jsheunis/rtme-fMRI).

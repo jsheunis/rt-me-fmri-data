@@ -1,0 +1,17 @@
+{
+    "trial_type": {
+        "LongName": "Finger tapping",
+        "Descripton": "A right hand finger tapping task, alternating between blocks of rest and finger tapping. Participant executes finger tapping with their right hand by steadily tapping the tip of the thumb to the tip of each other finger in succession, reversing the tapping order until the end of the task block is reached.",
+        "Levels": {
+            "FingerTapping": "A '>' sign is displayed in white in the middle of the screen with a black background.",
+            "Rest": "A '+' sign is displayed in white in the middle of the screen with a black background."
+        }
+    },
+    "StimulusPresentation": {
+        "OperatingSystem": "Windows 7",
+        "SoftwareName": "E-Prime Studio",
+        "SoftwareRRID": "SCR_009567",
+        "SoftwareVersion": "2.0.10.248",
+        "Code": ""
+    }
+}
